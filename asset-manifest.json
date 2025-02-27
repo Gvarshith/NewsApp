@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Gvarshith/NewsApp/static/css/main.ff889d26.css",
+    "main.js": "/Gvarshith/NewsApp/static/js/main.08832eb3.js",
+    "static/js/453.b2157c12.chunk.js": "/Gvarshith/NewsApp/static/js/453.b2157c12.chunk.js",
+    "static/media/spin.gif": "/Gvarshith/NewsApp/static/media/spin.c497e724b2c345f8c665.gif",
+    "index.html": "/Gvarshith/NewsApp/index.html",
+    "main.ff889d26.css.map": "/Gvarshith/NewsApp/static/css/main.ff889d26.css.map",
+    "main.08832eb3.js.map": "/Gvarshith/NewsApp/static/js/main.08832eb3.js.map",
+    "453.b2157c12.chunk.js.map": "/Gvarshith/NewsApp/static/js/453.b2157c12.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff889d26.css",
+    "static/js/main.08832eb3.js"
+  ]
+}
